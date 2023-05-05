@@ -30,4 +30,4 @@ Va bene se hai blocchi rimanenti, purché tu costruisca una piramide completa.
 
 >foto esercizio:
 
-<img src="![image](https://user-images.githubusercontent.com/127590037/236445499-c04f8f46-4fcd-4c91-9265-4fc9af5a4fc0.png)">
+<img height="600" width="600" src="![image](https://user-images.githubusercontent.com/127590037/236445499-c04f8f46-4fcd-4c91-9265-4fc9af5a4fc0.png)" />
